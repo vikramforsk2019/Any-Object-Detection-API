@@ -3,6 +3,7 @@ by using this Flask api we can detect any object detection using yolo3.
 we have only these 3 things requirement ---->
 
 1.Pretrained weights file    (__name__.weights)
+wget -P weights https://pjreddie.com/media/files/yolov3.weights
 
 2.classes names file         (_name_.names)
 
