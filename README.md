@@ -31,5 +31,6 @@ classes=80
 # Example Input
 ![babu](https://user-images.githubusercontent.com/51817568/87654983-4458e900-c775-11ea-8c07-fa5cdf94235a.png)
 # OUTPUT
-![babu_yolo_out_py](https://user-images.githubusercontent.com/51817568/87654975-41f68f00-c775-11ea-9249-eb168bf20f33.jpg)
+![babu_yolo_out_py](https://user-images.githubusercontent.com/51817568/87655737-3fe10000-c776-11ea-8fb2-3f3c0e35a99d.jpg)
+
 
