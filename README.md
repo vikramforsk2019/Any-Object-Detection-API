@@ -23,7 +23,6 @@ localhost:5000/
 
 # how can update yolov3_custom.cfg(Not Require for this repo project already done)
 # 1.subdivisons=16/32
-<br>
 if classes=80 <br>
 # 2.max_batches=(classes*2000)
  (min_batches=4000,max_batches = 500200) <br>
