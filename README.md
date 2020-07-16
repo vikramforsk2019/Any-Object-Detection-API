@@ -1,5 +1,5 @@
 # Any-Object-Detection-API
-by using this Flask api we can detect any object detection using yolo3.
+Creating Flask api and object detection using yolo3.
 we have only these 3 things requirements:
 
 # 1.Pretrained weights file    (yolov3.weights)
